@@ -53,7 +53,7 @@ Ensure you have the following software installed and linked:
 - Abaqus
 - Visual Studio
 - Intel Parallel Studio XE
-(Instructions to find and download the compatible versions of Visual Studio and Intel Fortran and properly link Abaqus with Fortran can be found at https://www.youtube.com/watch?v=f_8CjAqcQNI)
+(Instructions to find the compatible versions of Visual Studio and Intel Fortran and properly link Abaqus with Fortran can be found online)
 
 Instructions:
 
